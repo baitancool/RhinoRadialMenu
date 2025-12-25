@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Rhino plugin output
+*.rhp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Third party tools (not needed for build)
+.NET Reactor/
+Eazfuscator.NET_v2025/
